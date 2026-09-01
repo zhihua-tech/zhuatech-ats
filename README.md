@@ -88,6 +88,10 @@ docker compose config
 
 配套文档：[API](docs/API.md) · [架构](docs/ARCHITECTURE.md) · [测试](docs/TESTING.md) · [安全政策](SECURITY.md) · [贡献指南](CONTRIBUTING.md)
 
+## 企业招聘决策发布
+
+新增 Offer 发布前的企业级门禁，统一核对候选人授权、面试结论、必要背调、招聘编制、薪酬审批、职责分离与审计证据，并输出发布、HR 复核或阻断决定。详见[企业招聘决策说明](docs/ENTERPRISE_HIRING_DECISION.md)。
+
 ## 使用与商业授权
 
 本工程仅允许个人非商业性的学习、研究和技术交流，**不得商用**。商用、SaaS、企业部署、二次销售、软件实施和深度定制须事先取得上海如静知华信息科技有限公司书面授权。
